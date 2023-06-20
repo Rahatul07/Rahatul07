@@ -15,11 +15,11 @@ Skills: REACT / JS / HTML / CSS
 - ⚡ Fun fact: I think I am active and quick learner. 
 
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Rahatul07">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" style="max-width: 100%;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="80">
   </a>
-</div>
+</p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
