@@ -17,7 +17,7 @@ Skills: REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/Rahatul07">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="80">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" color="white" height="80">
   </a>
 </p>
 
