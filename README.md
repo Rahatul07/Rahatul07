@@ -15,15 +15,31 @@ Skills: REACT / JS / HTML / CSS
 - ⚡ Fun fact: I think I am active and quick learner. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rahatul07)  
+<p align="center">
+  <a href="https://github.com/Rahatul07">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs">
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats">
+</p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics">
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Rahatul07)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats">
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rahatul07)  
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views">
+</p>
 
-![Profile views](https://gpvc.arturio.dev/Rahatul07)  
