@@ -15,31 +15,31 @@ Skills: REACT / JS / HTML / CSS
 - ⚡ Fun fact: I think I am active and quick learner. 
 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Rahatul07">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="80">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" style="max-width: 100%;">
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs" style="max-width: 100%;">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats" height="200">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats" style="max-width: 100%;">
+</div>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics" height="200">
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics" style="max-width: 100%;">
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats" height="200">
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats" style="max-width: 100%;">
+</div>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views" height="40">
-</p>
+<div align="center">
+  <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views" style="max-width: 100%;">
+</div>
 
