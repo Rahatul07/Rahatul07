@@ -21,25 +21,25 @@ Skills: REACT / JS / HTML / CSS
   </a>
 </p>
 
-<div align="center"style="margin-bottom: 20px;">
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs" style="max-width: 100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs" style="max-width: 100%;">
   </a>
 </div>
 
-<div align="center"style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats" style="max-width: 100%">
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats" style="max-width: 100%;">
 </div>
 
-<div align="center"style="margin-bottom: 20px;">
-  <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics" style="max-width: 100%">
+<div align="center">
+  <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics" style="max-width: 100%;">
 </div>
 
-<div align="center"style="margin-bottom: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats" style="max-width: 100%">
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats" style="max-width: 100%;">
 </div>
 
-<div align="center"style="margin-bottom: 20px;">
-  <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views" style="max-width: 100%">
+<div align="center">
+  <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views" style="max-width: 100%;">
 </div>
-
