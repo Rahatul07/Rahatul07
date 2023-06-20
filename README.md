@@ -15,31 +15,31 @@ Skills: REACT / JS / HTML / CSS
 - ⚡ Fun fact: I think I am active and quick learner. 
 
 
-<p align="center"style="margin-bottom: 20px">
+<p align="center"style="margin-bottom: 20 px">
   <a href="https://github.com/Rahatul07">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" color="white" height="80">
   </a>
 </p>
 
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20 px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahatul07" alt="Top Langs" style="max-width: 100%;">
   </a>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20 px">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahatul07&show_icons=true" alt="GitHub stats" style="max-width: 100%;">
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20 px">
   <img src="https://metrics.lecoq.io/Rahatul07" alt="GitHub metrics" style="max-width: 100%;">
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20 px;">
   <img src="https://streak-stats.demolab.com/?user=Rahatul07" alt="GitHub streak stats" style="max-width: 100%;">
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20 px">
   <img src="https://gpvc.arturio.dev/Rahatul07" alt="Profile views" style="max-width: 100%;">
 </div>
